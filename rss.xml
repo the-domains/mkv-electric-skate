@@ -4,7 +4,7 @@
         <description><![CDATA[MKV E-Skate log]]></description>
         <link>https://thegrid.ai/mkv-electric-skate/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 30 Apr 2016 21:04:12 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Apr 2016 21:33:41 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/mkv-electric-skate/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Bill of Material]]></title>
@@ -19,6 +19,13 @@
             <link>https://thegrid.ai/mkv-electric-skate/latest-build-mkv-2/index.html</link>
             <guid isPermaLink="false">925b63b8-8d05-4af1-b3e1-716298707617</guid>
             <pubDate>Sat, 30 Apr 2016 20:28:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/90f5edc9-4f70-4b74-ac4b-44b255d303a5.jpg">]]></description>
+            <link>https://thegrid.ai/mkv-electric-skate/old-build/index.html</link>
+            <guid isPermaLink="false">6e7f44fa-c356-4987-a059-80b8668c6a01</guid>
+            <pubDate>Sat, 30 Apr 2016 21:31:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Low POV - DIY Electric skateboard street run]]></title>
