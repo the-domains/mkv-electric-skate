@@ -1,6 +1,6 @@
-name: MKV E-Skate log
+name: E-Skate
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0
 typography_spectrum: 0.2238
 title: MKV E-Skate log
 cta:
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ffffff'
-    - '#151419'
-    - '#f1b060'
-    - '#fc4348'
-    - '#5b754f'
-  brandStrength: 0.8125
-  lightness: 0.75
-  saturation: 0.75
-  rhythmicContrast: 0.75
+    - '#d8ecf3'
+    - '#0f1417'
+    - '#02a5e8'
+    - '#0068ad'
+    - '#5acefc'
+  brandStrength: 0.875
+  lightness: 0.875
+  saturation: 0.25
+  rhythmicContrast: 1
 purpose: []
