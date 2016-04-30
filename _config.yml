@@ -1,0 +1,28 @@
+name: mkv-electric-skate
+favicon: null
+layout_spectrum: 0.19152116845361888
+typography_spectrum: 0.18116553220897913
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.22945103724487126
+  lightness: 0.9686375982128084
+  saturation: 0.4246838050894439
+  rhythmicContrast: 0.2940735889133066
+purpose: []
