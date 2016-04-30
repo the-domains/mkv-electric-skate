@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Latest build: MKV #2'
-datePublished: '2016-04-30T19:22:33.167Z'
-dateModified: '2016-04-30T19:22:26.395Z'
+datePublished: '2016-04-30T20:28:54.823Z'
+dateModified: '2016-04-30T19:39:51.889Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-30-latest-build-mkv-2.md
@@ -17,21 +17,15 @@ publisher:
   domain: null
   url: null
   favicon: null
-starred: false
+starred: true
 url: latest-build-mkv-2/index.html
 _type: Article
 
 ---
 Latest build: MKV \#2
-
-* [Build Log][0]
-* [Parts: Bill of Material 101][1] (for a similar build, cheaper option included)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e44c2d97-03e1-4db6-8cc6-cf69da4eee92.jpg)
 ![Koston Deck](https://the-grid-user-content.s3-us-west-2.amazonaws.com/59daa090-cfa2-433b-952d-2c9d72b11669.jpg)
 ![Enertion motor block](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b03f863e-3a80-40dc-af93-b5aeb065ff4b.jpg)
 
 Build \#1
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a3a440ff-c9e6-4e96-b955-eb393f085773.jpg)
-
-[0]: http://www.electric-skateboard.builders/t/mkv-build-enertion-6372-motor-and-kit-100a-hobbytech-e-skate-esc-koston-deck-lipo-6s-5a-old-hub-motors-build/2298?u=makevoid
-[1]: https://docs.google.com/spreadsheets/d/12XYKZhs7IkBiTNniIc3gyUE7a4pvkk4sOGjK85dNeWI/edit
